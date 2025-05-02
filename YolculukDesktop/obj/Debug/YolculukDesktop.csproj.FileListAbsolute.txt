@@ -1,0 +1,66 @@
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\yolculukd_database.mdf
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\yolculukd_database_log.ldf
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\YolculukDesktop.exe.config
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\YolculukDesktop.exe
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\YolculukDesktop.pdb
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\System.Security.Permissions.dll
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\System.Security.Permissions.xml
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.csprojAssemblyReference.cache
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_debug.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_user_login.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_user_register.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.Properties.Resources.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.csproj.GenerateResource.cache
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.csproj.CoreCompileInputs.cache
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.csproj.CopyComplete
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.exe
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.pdb
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_pm_panel.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_yolculuk_main.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_pm_companies.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_pm_buses.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_seethebus.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_pm_routes.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_pm_voyages.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.denemeform.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_saleseat_select.resources
+C:\Users\CyberWarrior\source\repos\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_company_gains.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\yolculukd_database.mdf
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\yolculukd_database_log.ldf
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\YolculukDesktop.exe.config
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\YolculukDesktop.exe
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\YolculukDesktop.pdb
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\System.Security.Permissions.dll
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\System.Security.Permissions.xml
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.csprojAssemblyReference.cache
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.denemeform.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_company_gains.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_debug.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_pm_buses.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_pm_companies.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_pm_panel.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_pm_routes.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_pm_voyages.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_saleseat_select.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_seethebus.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_user_login.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_user_register.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.form_yolculuk_main.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.Properties.Resources.resources
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.csproj.GenerateResource.cache
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.csproj.CoreCompileInputs.cache
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.csproj.CopyComplete
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.exe
+C:\Users\CyberWarrior\Desktop\Çalışma Alanı\hacettepe\STAJI\odev\1OTOBUSTAKIP\STAJODEVI_Mehmet_Emin_Çelik_21985758\Kaynak_Kod\YolculukDesktop\YolculukDesktop\obj\Debug\YolculukDesktop.pdb

@@ -1,0 +1,1 @@
+connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\yolculukd_database.mdf;Integrated Security=True"

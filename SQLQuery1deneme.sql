@@ -1,0 +1,1 @@
+﻿SELECT voyage.departure_route_id, voyage.arrival_route_id, voyage.bus_id FROM voyage WHERE departure_route_id = 1 OR arrival_route_id = 1

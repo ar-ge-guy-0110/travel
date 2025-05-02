@@ -1,0 +1,19 @@
+Yönetici
+admin@mail.com
+1122334455
+
+kullanýcýlar
+adam@mail.com
+12345
+adam@2
+123
+adam@3
+123
+adam@4
+123
+adam@5
+123
+
+kayýt sistemi vardýr.
+
+"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\yolculukd_database.mdf;Integrated Security=True"
